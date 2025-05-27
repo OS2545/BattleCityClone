@@ -4,8 +4,9 @@ Game based on Battle City game using Unreal Engine 5
 วิธีดาวน์โหลด build 
 
 เปิด https://drive.google.com/drive/folders/1Ez2EXYBgf6hx3mbbtogFNSuOww5iwulc?usp=sharing 
-ดาว์โหลด build folder 
-เปิด Windows folder และ Run ‘ BattleCityClone.exe ‘
+1.ดาว์โหลด build folder 
+2.แตก zip
+3.เปิด Windows folder และ Run ‘ BattleCityClone.exe ‘
 
 
 วิธีดาวน์โหลด u.project
